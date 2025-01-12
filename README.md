@@ -1,6 +1,6 @@
 # TECH4R_QGIS
 
-Welcome to Tech4R training on QGIS for Hmanitarian Purposes! 
+Welcome to Tech4R training on QGIS for Hmanitarian Purposes! /
 In this training, we will explore how humanitarian geospatial data are handled using QGIS. 
 Before the training starts, it is adviced for the participants to install QGIS in advance so that during the training, participants can follow smoothly.
 
